@@ -1,5 +1,3 @@
----
-
 ## 🧾 Project Overview
 
 This project is designed using microservices architecture, incorporating the following key components:
